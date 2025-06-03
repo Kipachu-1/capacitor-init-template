@@ -20,7 +20,6 @@ export default function Layout() {
             <Outlet />
           </main>
 
-          {/* Podcast Player */}
           <NavigationBar />
         </div>
       </div>
