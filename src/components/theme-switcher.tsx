@@ -1,5 +1,5 @@
 import { AppSettings } from "@/services/settings";
-import { darkModeAtom } from "@/state/atoms";
+import { darkModeAtom } from "@/state";
 import { StatusBar, Style } from "@capacitor/status-bar";
 import { useAtom } from "jotai";
 import { Moon, Sun } from "lucide-react";
